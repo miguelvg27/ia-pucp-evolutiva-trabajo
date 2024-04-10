@@ -1,0 +1,5 @@
+cruzamiento,seleccion,mean_fitness,mean_dist,mean_pob,gen_convergencia
+custom_uniform,roulette,685820.9170039834,557120.9170039834,128700.0,32.0
+custom_uniform,tournament,685055.2923702397,556355.2923702397,128700.0,14.0
+custom_onepoint,tournament,683288.7476345127,552488.7476345127,130800.0,8.0
+custom_onepoint,roulette,681370.1348125753,552970.1348125753,128400.0,12.0
